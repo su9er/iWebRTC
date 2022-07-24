@@ -5,7 +5,6 @@
   "description": "a WebRTC project base on Distributed SFU architecture",
   "author": "su9er",
   "license": "MIT",
-  "funding": "https://github.com/sponsors/su9er",
   "homepage": "https://github.com/su9er/i-webrtc#readme",
   "repository": {
     "type": "git",
