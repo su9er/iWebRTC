@@ -21,6 +21,12 @@
       "@config/*": [
         "src/config/*"
       ],
+      "@dto/*": [
+        "src/dto/*"
+      ],
+      "@entities/*": [
+        "src/entities/*"
+      ],
       "@filters/*": [
         "src/filters/*"
       ],
