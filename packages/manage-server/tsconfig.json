@@ -30,6 +30,9 @@
       "@filters/*": [
         "src/filters/*"
       ],
+      "@middlewares/*": [
+        "src/middlewares/*"
+      ],
       "@modules/*": [
         "src/modules/*"
       ],
